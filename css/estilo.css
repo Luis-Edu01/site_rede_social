@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+:root{
+    --fonte-principal: Arial, Helvetica, sans-serif;;
+    --imagem-fundo: url(../imagens/fundo-madeira.jpg);
+    --imagem-celular: url(../imagens/frame-iphone.png);
+    --tela-home: url(../imagens/tela-home.jpg);
+    
+    --logo-facebook: url(../imagens/logo-facebook.jpg);
+    --logo-github: url(../imagens/logo-github.jpg);
+    --logo-instagran: url(../imagens/logo-instagram.jpg);
+    --logo-home: url(../imagens/logo-home.jpg);
+
+}
