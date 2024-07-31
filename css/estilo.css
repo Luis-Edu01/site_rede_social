@@ -22,25 +22,20 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+
     height: 627px;
     width: 311px;
-    background-image:url(../imagens/frame-iphone.png);
-    background-repeat: no-repeat;
+    background:url(../imagens/frame-iphone.png) no-repeat;
 }
 iframe#tela{
     position: relative;
     top: 79px;
     left: 22px;
-    width: 268px;
+    width: 265px;
     height: 471px;
-    background-size: cover;
 }
 section#social{
-    padding-top: 5%;
-    padding-right: 3%;
     text-align: right;
-    position: relative;
-    background-size: cover;
 }
 section#social > a > img{
     width: 50px;
